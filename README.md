@@ -1,1 +1,2 @@
 # dars
+bu faylga yozildi
